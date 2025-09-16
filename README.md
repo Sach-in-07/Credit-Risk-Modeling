@@ -63,4 +63,4 @@ We welcome contributions from the community! To contribute:
 
 For any questions or inquiries, please contact:
 
-- **Email** [Saurabh Kumar](mailto:saurabh_k@ma.iitr.ac.in)
+- **Email** [Sachin Singh](mailto:sachin07sgsingh@gmail.com)
